@@ -5,3 +5,5 @@ authors = ["Andrew Kvalheim <Andrew@Kvalhe.im>"]
 edition = "2018"
 
 [dependencies]
+itertools = "0.8"
+read_input = "0.8"
